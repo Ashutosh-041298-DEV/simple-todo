@@ -1,0 +1,42 @@
+.center{
+    margin: auto;
+    text-align: center;
+    margin-top:60px;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.redbtn button{
+    text-align: center;
+    color:red;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.greenbtn button{
+    text-align: center;
+    color:green;
+    margin: 5px;
+    font-weight: bold;
+
+}
+.look{
+    gap: 30px;
+   /* padding: 20px; */
+    /* text-align: center; */
+}
+.look > button{
+    background-color: black;
+    color: aqua;
+    gap: 30px;
+    margin: 10px;
+    width: 90px;
+    height: 30px;
+    border-radius: 20%;
+}
